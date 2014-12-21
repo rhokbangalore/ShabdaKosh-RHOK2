@@ -17,3 +17,4 @@ by crowdsourcing appropriate, non-literal, human contributed translations,
 by building a community and gamifying the learning platform.
 
 Demo: apps.facebook.com/chesslite/
+source: https://github.com/edudemy/ShabdaKosh-RHOK2
