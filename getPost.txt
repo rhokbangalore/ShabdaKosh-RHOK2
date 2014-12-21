@@ -1,0 +1,36 @@
+post method
+
+
+   $scope.poSt=function(){
+
+$http.post('https://api.parse.com/1/classes/ShabdaKosh/',{msg:'helloWorld'},config).success(function(data,status,headers,config){
+
+alert();
+}).error(function(data,status,headers,config){
+alert("adscasc");
+
+
+
+});
+
+
+       }
+
+
+
+
+
+
+get method
+
+
+//get request
+            $http.get('https://api.parse.com/1/classes/ShabdaKosh/KhVcxrZFvi',config).success(
+function(data, status, headers, config){
+
+  alert(data.Date);
+}
+              ).error(function(data, status, headers, config)
+            {
+            alert("error"+data);
+            })
