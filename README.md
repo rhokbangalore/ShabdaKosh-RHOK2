@@ -16,4 +16,3 @@ For example: lmgtfy.com/?q=translate+radio+to+kannada
 by crowdsourcing appropriate, non-literal, human contributed translations, 
 by building a community and gamifying the learning platform.
 
-Demo: apps.facebook.com/chesslite/
